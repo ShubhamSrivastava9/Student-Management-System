@@ -1,0 +1,14 @@
+C:\Users\shriv\OneDrive\Desktop\DotNet\MVC_Core_StudentCodeFirst\StudentRepository\bin\Debug\net6.0\StudentRepository.deps.json
+C:\Users\shriv\OneDrive\Desktop\DotNet\MVC_Core_StudentCodeFirst\StudentRepository\bin\Debug\net6.0\StudentRepository.runtimeconfig.json
+C:\Users\shriv\OneDrive\Desktop\DotNet\MVC_Core_StudentCodeFirst\StudentRepository\bin\Debug\net6.0\StudentRepository.dll
+C:\Users\shriv\OneDrive\Desktop\DotNet\MVC_Core_StudentCodeFirst\StudentRepository\bin\Debug\net6.0\StudentRepository.pdb
+C:\Users\shriv\OneDrive\Desktop\DotNet\MVC_Core_StudentCodeFirst\StudentRepository\obj\Debug\net6.0\StudentRepository.csproj.AssemblyReference.cache
+C:\Users\shriv\OneDrive\Desktop\DotNet\MVC_Core_StudentCodeFirst\StudentRepository\obj\Debug\net6.0\StudentRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shriv\OneDrive\Desktop\DotNet\MVC_Core_StudentCodeFirst\StudentRepository\obj\Debug\net6.0\StudentRepository.AssemblyInfoInputs.cache
+C:\Users\shriv\OneDrive\Desktop\DotNet\MVC_Core_StudentCodeFirst\StudentRepository\obj\Debug\net6.0\StudentRepository.AssemblyInfo.cs
+C:\Users\shriv\OneDrive\Desktop\DotNet\MVC_Core_StudentCodeFirst\StudentRepository\obj\Debug\net6.0\StudentRepository.csproj.CoreCompileInputs.cache
+C:\Users\shriv\OneDrive\Desktop\DotNet\MVC_Core_StudentCodeFirst\StudentRepository\obj\Debug\net6.0\StudentRepository.dll
+C:\Users\shriv\OneDrive\Desktop\DotNet\MVC_Core_StudentCodeFirst\StudentRepository\obj\Debug\net6.0\refint\StudentRepository.dll
+C:\Users\shriv\OneDrive\Desktop\DotNet\MVC_Core_StudentCodeFirst\StudentRepository\obj\Debug\net6.0\StudentRepository.pdb
+C:\Users\shriv\OneDrive\Desktop\DotNet\MVC_Core_StudentCodeFirst\StudentRepository\obj\Debug\net6.0\StudentRepository.genruntimeconfig.cache
+C:\Users\shriv\OneDrive\Desktop\DotNet\MVC_Core_StudentCodeFirst\StudentRepository\obj\Debug\net6.0\ref\StudentRepository.dll
